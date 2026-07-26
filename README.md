@@ -27,8 +27,6 @@ This dashboard enables stakeholders to:
 - Improve profitability through return analysis.
 - Support data-driven strategic decision-making.
 
-## Screenshots
-*(Add dashboard screenshots here)*
 
 ## How to Use
 1. Download `retail sales data.pbix`
