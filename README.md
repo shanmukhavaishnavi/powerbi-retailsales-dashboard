@@ -27,6 +27,17 @@ This dashboard enables stakeholders to:
 - Improve profitability through return analysis.
 - Support data-driven strategic decision-making.
 
+## Screenshots
+
+### Retail Sales Overview
+![ Overview](screenshots/overview.png)
+
+### Customer & Segment Analysis
+![Customer & Segment Analysis](screenshots/customer-segment-analysis.png)
+
+### Regional Performance & Returns Breakdown
+![Regional Performance & Returns Breakdown](screenshots/regional-performance-returns-breakdown.png)
+
 
 ## How to Use
 1. Download `retail sales data.pbix`
