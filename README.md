@@ -30,13 +30,13 @@ This dashboard enables stakeholders to:
 ## Screenshots
 
 ### Retail Sales Overview
-![ Overview](screenshots/overview.png)
+![ Overview](overview.png)
 
 ### Customer & Segment Analysis
-![Customer & Segment Analysis](screenshots/customer-segment-analysis.png)
+![Customer & Segment Analysis](customer-segment-analysis.png)
 
 ### Regional Performance & Returns Breakdown
-![Regional Performance & Returns Breakdown](screenshots/regional-performance-returns-breakdown.png)
+![Regional Performance & Returns Breakdown](regional-performance-returns-breakdown.png)
 
 
 ## How to Use
